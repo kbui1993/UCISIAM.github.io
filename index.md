@@ -4,4 +4,6 @@ The UCI Society for Industrial and Applied Mathematics (SIAM) Chapter is part of
 
 ## Upcoming Events
 
-## Members
+Check back regularly for future events!
+
+## Officers
