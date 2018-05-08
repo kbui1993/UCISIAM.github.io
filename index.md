@@ -8,7 +8,7 @@ Check back regularly for future events!
 
 ## Officers
 
-President — Daniel Bergman
-Vice President — Greg Zitelli
-Secretary/Treasurer — Jen Bryson
-IT Officer — Chris Rackauckas
+- President — Daniel Bergman
+- Vice President — Greg Zitelli
+- Secretary/Treasurer — Jen Bryson
+- IT Officer — Chris Rackauckas
