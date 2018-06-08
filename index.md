@@ -12,3 +12,24 @@ Check back regularly for future events!
 - Vice President — Greg Zitelli
 - Secretary/Treasurer — Jen Bryson
 - IT Officer — Chris Rackauckas
+
+## Members
+
+- Thomas Trogdon
+- Timmy Ma
+- Chris Rackauckas
+- Kevin Johnston
+- Gregory Zitelli
+- Daniel Bergman
+- Jiancheng Lyu
+- Riu Xiang
+- Jennifer Bryson
+- Daniel Ramirez
+- Jesse Kreger
+- Hongkai Zhao
+- Dong Yan
+- John Peca-Medlin
+- Guangchu Yan
+- Elvira Kadaub
+- Seyedkamyar Kazemi
+- Amir Vig
