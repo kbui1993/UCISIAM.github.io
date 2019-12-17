@@ -13,8 +13,9 @@ Check back regularly for future events!
 - Secretary/Treasurer — Josh Jordan
 - IT Officer — Dong Yan
 
-## Past Officers
+## Past Officers (President, Vice President, Secretary, IT Officer)
 
+- 2018-2019 - Greg Zitelli, Seulip Lee, Daniel Ramirez, Huiwen Wu
 - 2017-2018 - Daniel Bergman, Greg Zitelli, Jen Bryson, Chris Rackauckas
 
 ## Members
