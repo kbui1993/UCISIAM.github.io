@@ -9,9 +9,14 @@ Check back regularly for future events!
 ## Officers
 
 - President — Daniel Bergman
-- Vice President — Greg Zitelli
-- Secretary/Treasurer — Jen Bryson
-- IT Officer — Chris Rackauckas
+- Vice President — John Peca-Medlin
+- Secretary/Treasurer — Josh Jordan
+- IT Officer — Dong Yan
+
+## Past Officers (President, Vice President, Secretary, IT Officer)
+
+- 2018-2019 - Greg Zitelli, Seulip Lee, Daniel Ramirez, Huiwen Wu
+- 2017-2018 - Daniel Bergman, Greg Zitelli, Jen Bryson, Chris Rackauckas
 
 ## Members
 
