@@ -6,7 +6,7 @@ The UCI Society for Industrial and Applied Mathematics (SIAM) Chapter is part of
 
 Check back regularly for future events!
 
-## Officers
+## [Officers](https://ucisiam.github.io/people)
 
 - President — Daniel Bergman
 - Vice President — John Peca-Medlin
