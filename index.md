@@ -8,3 +8,8 @@ Check back regularly for future events!
 
 ## [Officers](https://ucisiam.github.io/people)
 
+- President: Pieter Derdeyn
+- Vice-President: Daniel Morrison
+- Treasurer: Omar Hurtado
+- Secretary/IT Officer: Dong Yan
+
