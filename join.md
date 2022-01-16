@@ -15,12 +15,13 @@ permalink: /join/
 
 ## Join UCI SIAM chapter
 
-[Sign up here](https://forms.gle/2ZRK2vVJKHom1Yw66)
+Join our mailing list for latest events and add your name on our active members! 
+[Sign up here.](https://forms.gle/2ZRK2vVJKHom1Yw66)
 
 ## Become a SIAM member
 
-[Learn more](https://www.siam.org/membership/join-siam/individual-members)
+For full-time students enrolled in any college or university who are studying mathematics, engineering, computer science, physical science, or who use mathematics or computational methods in any field of study. Free or discounted memberships available. [Learn more.](https://www.siam.org/membership/join-siam/individual-members)
 
 ## Give a talk
 
-[Sign up here](https://forms.gle/FGYHtGvdG8Qn8Y7q6)
+We welcome any talks related to applied math and computational science, and any type of speakers (students, visitors, faculty, etc). If you are interested in giving a talk / seminar, please [sign up here.](https://forms.gle/gGj9eBqwAYhs6eMJ8)
