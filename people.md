@@ -3,18 +3,19 @@ layout: page
 title: "People"
 permalink: /people/
 -->
-<img src="/images/UCI_long.png" width="45%">&nbsp;&nbsp;&nbsp;<img src="/images/siam_logo.png" width="50%"> 
-
----
 
 <p align="center">
-    <a href="https://ucisiam.github.io/people">Home</a>
+ <img width="90%" src="/images/header.png">
+</p>
+
+<p align="center"> 
+    <a href="https://ucisiam.github.io/">Home</a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-    <a href="https://ucisiam.github.io/people">Events</a>
+    <a href="https://ucisiam.github.io/events">Events</a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
     <a href="https://ucisiam.github.io/people">People</a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-    <a href="https://ucisiam.github.io/people">Join</a>
+    <a href="https://ucisiam.github.io/join">Join</a>
 </p>
 
 ---
