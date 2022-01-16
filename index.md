@@ -1,4 +1,5 @@
 <img src="/images/UCI_long.png" width="45%">&nbsp;&nbsp;&nbsp;<img src="/images/siam_logo.png" width="50%"> 
+---
 
 [**Home**](https://ucisiam.github.io/)&nbsp;&nbsp;&nbsp;
 [**Events**](https://ucisiam.github.io/events)&nbsp;&nbsp;&nbsp;
