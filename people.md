@@ -7,12 +7,17 @@ permalink: /people/
 
 ---
 
-[**Home**](https://ucisiam.github.io/)&nbsp;&nbsp;&nbsp;
-[**Events**](https://ucisiam.github.io/events)&nbsp;&nbsp;&nbsp;
-[**People**](https://ucisiam.github.io/people)&nbsp;&nbsp;&nbsp;
-[**Join**](https://ucisiam.github.io/join)&nbsp;&nbsp;&nbsp;
+<p align="center">
+    <a href="https://ucisiam.github.io/people">Home</a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    <a href="https://ucisiam.github.io/people">Events</a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    <a href="https://ucisiam.github.io/people">People</a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    <a href="https://ucisiam.github.io/people">Join</a>
+</p>
 
-
+---
 
 ## Officers for 2021
 
@@ -56,7 +61,7 @@ permalink: /people/
 ---
 
 <p align="center">
-    <a href="https://ucisiam.github.io/people">back to top</a>
+    <a href="https://ucisiam.github.io/people">Back to top</a>
 </p>
 
 
