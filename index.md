@@ -12,7 +12,7 @@
 
 ## About us 
 
-The UCI Student Society for Industrial and Applied Mathematics (SIAM) Chapter is part of the [UCI Department of Mathematics](https://www.math.uci.edu/). We welcome undergraduate and graduate students in any major interested in applied mathematics and computational science. [Join us](https://ucisiam.github.io/join) to give a talk/lead a study group and more!
+The UCI Student Society for Industrial and Applied Mathematics (SIAM) Chapter is part of the [UCI Department of Mathematics](https://www.math.uci.edu/). We welcome any individual (undergraduate and graduate student, visitor, faculty, etc) in any major interested in applied mathematics and computational science. [Join us](https://ucisiam.github.io/join) to give a talk/lead a study group and more!
 
 ## Upcoming Events
 
