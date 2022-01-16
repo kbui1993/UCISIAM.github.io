@@ -1,3 +1,13 @@
+<img src="/images/UCI_long.png" width=35%>&nbsp;&nbsp;&nbsp;<img src="/images/siam_logo.png" width=50%> 
+
+[**Home**](https://ucisiam.github.io/)&nbsp;&nbsp;&nbsp;
+[**Events**](https://ucisiam.github.io/events)&nbsp;&nbsp;&nbsp;
+[**People**](https://ucisiam.github.io/people)&nbsp;&nbsp;&nbsp;
+[**Join**](https://ucisiam.github.io/join)&nbsp;&nbsp;&nbsp;
+
+
+
+
 ## UCI SIAM Chapter
 
 The UCI Society for Industrial and Applied Mathematics (SIAM) Chapter is part of the [UCI Department of Mathematics](https://www.math.uci.edu/).
