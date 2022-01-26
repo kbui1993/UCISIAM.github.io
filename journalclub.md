@@ -39,6 +39,12 @@ permalink: /journalclub/
 | --- | --- | --- |
 | 06.21.2021  | Ahyeon Hwang | [Deep generative modeling for single-cell transcriptomics](https://www.nature.com/articles/s41592-018-0229-2) |
 | 06.28.2021  | Kevin Bui | [l1 Trend Filtering](https://web.stanford.edu/~boyd/papers/pdf/l1_trend_filter.pdf) |
+| 07.06.2021  | Pieter Derdeyn | [Convolutional graph neural network paper](https://arxiv.org/pdf/1609.02907.pdf) |
+| 07.12.2021  | Eric & Pieter Derdeyn | [Convolutional graph neural network paper](https://arxiv.org/pdf/1609.02907.pdf) |
+| 07.19.2021  | M. Hasan Celik | https://www.cell.com/cell-reports/pdf/S2211-1247(20)30616-1.pdf |
+| 08.09.2021  | Katrina Bartas & Pieter Derdeyn | [Inferring single-trial neural population dynamics using sequential auto-encoders ](https://www.nature.com/articles/s41592-018-0109-9 ) |
+| 08.16.2021  | Vincent Zaballa | [Group Equivariant Convolutional Network](https://arxiv.org/pdf/1602.07576.pdf) |
+
 
 
 
