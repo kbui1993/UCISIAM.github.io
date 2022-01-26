@@ -13,6 +13,8 @@ permalink: /events/
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
     <a href="https://ucisiam.github.io/events">Events</a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    <a href="https://ucisiam.github.io/journalclub">Journal Club</a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
     <a href="https://ucisiam.github.io/people">People</a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
     <a href="https://ucisiam.github.io/join">Join</a>
