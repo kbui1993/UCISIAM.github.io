@@ -22,8 +22,15 @@ permalink: /journalclub/
 
 ---
 
+## 2021 Fall 
+
+| Date  | Speaker | Paper |
+| --- | --- | --- |
+| 10.11.2021  | Yueqi Ren  | [A multilayer multimodal detection and prediction model based on explainable artificial intelligence for Alzheimer’s disease](https://www.nature.com/articles/s41598-021-82098-3) |
+| 05.07.2021  | Kevin Bui  | [Robust continuous clustering](https://www.pnas.org/content/pnas/114/37/9814.full.pdf) |
 
 ## 2021 Spring
+
 | Date  | Speaker | Paper |
 | --- | --- | --- |
 | 05.07.2021  | Kevin Bui  | Introductory/Kick-off Meeting |
