@@ -13,6 +13,8 @@ permalink: /people/
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
     <a href="https://ucisiam.github.io/events">Events</a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    <a href="https://ucisiam.github.io/journalclub">Journal Club</a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
     <a href="https://ucisiam.github.io/people">People</a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
     <a href="https://ucisiam.github.io/join">Join</a>
@@ -25,6 +27,7 @@ permalink: /people/
 - President: Pieter Derdeyn
 - Vice-President: Daniel Morrison
 - Treasurer: Omar Hurtado
+- Journal Club Organizer: Kevin Bui
 - Secretary/IT Officer: Dong Yan
 
 ## Past Officers (President, Vice President, Secretary, IT Officer)
