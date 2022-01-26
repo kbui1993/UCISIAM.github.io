@@ -22,12 +22,25 @@ permalink: /journalclub/
 
 ---
 
+
+
 ## 2021 Fall 
 
 | Date  | Speaker | Paper |
 | --- | --- | --- |
 | 10.11.2021  | Yueqi Ren  | [A multilayer multimodal detection and prediction model based on explainable artificial intelligence for Alzheimer’s disease](https://www.nature.com/articles/s41598-021-82098-3) |
-| 05.07.2021  | Kevin Bui  | [Robust continuous clustering](https://www.pnas.org/content/pnas/114/37/9814.full.pdf) |
+| 10.18.2021  | Kevin Bui  | [Robust continuous clustering](https://www.pnas.org/content/pnas/114/37/9814.full.pdf) |
+| 11.01.2021  | Zhijian Li | [FMM former: Efficient and Flexible Transformer via Decomposed Near-field and Far-field Attention](https://arxiv.org/pdf/2108.02347.pdf) |
+| 11.08.2021  | Matt Duong | [RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning](https://www.nature.com/articles/s41467-019-13395-9) |
+
+## 2021 Summer
+
+| Date  | Speaker | Paper |
+| --- | --- | --- |
+| 06.21.2021  | Ahyeon Hwang | [Deep generative modeling for single-cell transcriptomics](https://www.nature.com/articles/s41592-018-0229-2) |
+| 06.28.2021  | Kevin Bui | [l1 Trend Filtering](https://web.stanford.edu/~boyd/papers/pdf/l1_trend_filter.pdf) |
+
+
 
 ## 2021 Spring
 
