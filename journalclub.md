@@ -23,6 +23,7 @@ permalink: /journalclub/
 ---
 
 ## 2022 Winter (Tentative Calendar)
+
 | Date  | Speaker | Paper |
 | --- | --- | --- |
 | 01.17.2022  | Vincent z | [Automatic Symmetry Discovery with Lie Algebra Convolutional Network](https://arxiv.org/abs/2109.07103) |
