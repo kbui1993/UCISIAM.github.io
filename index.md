@@ -29,6 +29,7 @@ Check back regularly for future events!
 - President: Pieter Derdeyn
 - Vice-President: Daniel Morrison
 - Treasurer: Omar Hurtado
+- Journal Club Organizer: Kevin Bui
 - Secretary/IT Officer: Dong Yan
 
 ## Faculty Advisors
