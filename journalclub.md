@@ -64,3 +64,10 @@ permalink: /journalclub/
 | 05.21.2021  | Hasan Celik  | [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6#Abs1) |
 | 05.28.2021  | Kevin Bui  | [A FIRST-ORDER PRIMAL-DUAL ALGORITHM WITH LINESEARCH](https://epubs.siam.org/doi/pdf/10.1137/16M1092015) |
 | 06.04.2021  | Vincent Zaballa  | [Protein design and variant prediction using autoregressive generative models](https://www.nature.com/articles/s41467-021-22732-w) |
+
+
+---
+
+<p align="center">
+    <a href="https://ucisiam.github.io/journalclub">Back to top</a>
+</p>
