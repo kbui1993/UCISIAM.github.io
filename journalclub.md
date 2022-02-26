@@ -26,10 +26,11 @@ permalink: /journalclub/
 
 | Date  | Speaker | Paper |
 | --- | --- | --- |
-| 01.17.2022  | Vincent z | [Automatic Symmetry Discovery with Lie Algebra Convolutional Network](https://arxiv.org/abs/2109.07103) |
-| 01.31.2022  | Kevin Bui | [Elastic Graph Neural Network](https://proceedings.mlr.press/v139/liu21k/liu21k.pdf) |
-| 02.07.2022  | Katrina Bartas | [scGNN is a novel graph neural network framework for single-cell RNA-Seq analyses](https://www.nature.com/articles/s41467-021-22197-x#Abs1) |
-| 02.14.2022  | Pieter Derdeyn | [On Explainability of Graph Neural Networks via Subgraph Explorations](https://arxiv.org/pdf/2102.05152.pdf) |
+| 01.19.2022  | Vincent z | [Automatic Symmetry Discovery with Lie Algebra Convolutional Network](https://arxiv.org/abs/2109.07103) |
+| 02.02.2022  | Kevin Bui | [Elastic Graph Neural Network](https://proceedings.mlr.press/v139/liu21k/liu21k.pdf) |
+| 02.09.2022  | Katrina Bartas | [scGNN is a novel graph neural network framework for single-cell RNA-Seq analyses](https://www.nature.com/articles/s41467-021-22197-x#Abs1) |
+| 02.16.2022  | Pieter Derdeyn | [On Explainability of Graph Neural Networks via Subgraph Explorations](https://arxiv.org/pdf/2102.05152.pdf) |
+| 02.23.2022  | Ahyeon Hwang | [Robust single-cell Hi-C clustering by convolution- and random-walk-based imputation](https://www.pnas.org/content/116/28/14011) |
 
 ## 2021 Fall 
 
